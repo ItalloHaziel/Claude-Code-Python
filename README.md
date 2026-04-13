@@ -81,7 +81,7 @@ Antes de comecar, voce precisa ter:
 - [ ] Connection string do banco PostgreSQL
 - [ ] Chave de API da Anthropic (para o Case 2)
 
-Detalhes de instalacao no **[GUIA_INSTALACAO.md](./GUIA_INSTALACAO.md)**.
+
 
 ---
 
